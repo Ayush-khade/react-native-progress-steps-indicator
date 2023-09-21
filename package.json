@@ -1,0 +1,26 @@
+{
+  "name": "react-native-progress-steps-indicator",
+  "version": "1.0.0",
+  "description": "A simple react-native implementation of step indicator widget.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-khade/react-native-progress-steps-indicator.git"
+  },
+  "keywords": [
+    "react-native",
+    "progress-steps",
+    "indicator",
+    "steps",
+    "react-native-progress-steps-indicator"
+  ],
+  "author": "Ayush Khade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayush-khade/react-native-progress-steps-indicator/issues"
+  },
+  "homepage": "https://github.com/Ayush-khade/react-native-progress-steps-indicator#readme"
+}
